@@ -25,3 +25,6 @@ This project aims to apply computer vision techniques for object detection in ur
 The city_dataset was created from a detailed search and download of urban traffic images obtained from Google Images. The goal was to compile a dataset that represents a variety of urban scenes, with a focus on traffic and transportation elements. For annotating these images, I used the CVAT (Computer Vision Annotation Tool), which is widely recognized and used in computer vision projects for creating labels (annotations) in a precise and efficient manner. After completing the annotation process, I saved the final dataset on Google Drive to ensure secure and accessible storage. From Google Drive, the dataset will be made available for use in this object detection project.
 
 CVAT facilitates the manual labeling process by allowing the user to draw bounding boxes around the objects of interest in each image. In my case, the classes defined for the project were cyclists, pedestrians, and cars. That is, the bounding boxes were drawn to identify and classify these three categories of objects through the following link: https://drive.google.com/drive/folders/1DXswiFetctlve3QblhDkAx6SXvSudaEj?usp=sharing 
+
+![Amostra de resultado/sample result](https://drive.google.com/uc?id=1-lBxN6aDUvTfJijZh9VoHSm4SqKOfgtr)
+
